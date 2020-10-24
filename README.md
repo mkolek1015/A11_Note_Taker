@@ -36,11 +36,10 @@ If you have any questions, you can contact the creator of this repo here: [mkole
 GitHub: https://github.com/mkolek1015
 
 ## Author Info
-Michael Kolek
+# Michael Kolek
 
 [Link to Heroku][https://rocky-gorge-77825.herokuapp.com/]
 </br>
-
 
 [Link to Video Demo][https://youtu.be/_eQpTMreGW]
 
@@ -52,5 +51,3 @@ Michael Kolek
 ![Image of Notes API](https://github.com/mkolek1015/A11_Note_Taker/blob/main/public/Notes%20API%20SS.jpg)
 
 ![Image of Specfic Note API](https://github.com/mkolek1015/A11_Note_Taker/blob/main/public/Note2API%20SS.jpg)
-
-![Link to Video Demo](https://youtu.be/_eQpTMreGWU)
