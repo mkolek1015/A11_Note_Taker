@@ -18,6 +18,7 @@
 
   ## License:
   ![badge](https://img.shields.io/badge/license-MIT-red)
+  </br>
   MIT
   
   ## Contributors:
