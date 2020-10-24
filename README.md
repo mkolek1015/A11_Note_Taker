@@ -47,8 +47,9 @@ Michael Kolek
 
 ![Link to Video Demo](https://youtu.be/_eQpTMreGWU)
 
+<!-- blank line -->
 <figure class="video_container">
   <iframe src="https://youtu.be/_eQpTMreGWU" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
-
+<!-- blank line -->
 
