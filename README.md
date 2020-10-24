@@ -17,14 +17,14 @@
   Express |  Inquirer | MySQL
 
   ## License:
+  ![badge](https://img.shields.io/badge/license-MIT-red)
   MIT
-  ![badge](https://img.shields.io/badge/license-MIT-red) 
   
   ## Contributors:
   Myself
 
   ## Tests:
-  Echo
+  Echo 
 
   
   ## Usage:
@@ -36,7 +36,7 @@ If you have any questions, you can contact the creator of this repo here: [mkole
 GitHub: https://github.com/mkolek1015
 
 ## Author Info
-# Michael Kolek
+### Michael Kolek
 
 [Link to Heroku][https://rocky-gorge-77825.herokuapp.com/]
 </br>
