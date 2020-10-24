@@ -38,6 +38,8 @@ GitHub: https://github.com/mkolek1015
 Michael Kolek
 
 [Link to Heroku][https://rocky-gorge-77825.herokuapp.com/]
+[Link to Video Demo][https://youtu.be/_eQpTMreGW]
+
 
 ![Image of Home Screen](https://github.com/mkolek1015/A11_Note_Taker/blob/main/public/Home%20Screen%20SS.jpg)
 
@@ -48,10 +50,3 @@ Michael Kolek
 ![Image of Specfic Note API](https://github.com/mkolek1015/A11_Note_Taker/blob/main/public/Note2API%20SS.jpg)
 
 ![Link to Video Demo](https://youtu.be/_eQpTMreGWU)
-
-<!-- blank line -->
-<figure class="video_container">
-  <iframe src="https://youtu.be/_eQpTMreGWU" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-<!-- blank line -->
-
