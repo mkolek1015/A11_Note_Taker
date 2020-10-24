@@ -37,7 +37,7 @@ GitHub: https://github.com/mkolek1015
 ## Author Info
 Michael Kolek
 
-![Link to Heroku](https://rocky-gorge-77825.herokuapp.com/)
+[Link to Heroku][https://rocky-gorge-77825.herokuapp.com/]
 
 ![Image of Home Screen](https://github.com/mkolek1015/A11_Note_Taker/blob/main/public/Home%20Screen%20SS.jpg)
 
