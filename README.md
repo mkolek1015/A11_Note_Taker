@@ -32,12 +32,16 @@
   
   ## Questions: 
 If you have any questions, you can contact the creator of this repo here: [mkolek7@yahoo.com](mailto:mkolek7@yahoo.com)
+</br>
 GitHub: https://github.com/mkolek1015
 
 ## Author Info
 Michael Kolek
 
 [Link to Heroku][https://rocky-gorge-77825.herokuapp.com/]
+</br>
+
+
 [Link to Video Demo][https://youtu.be/_eQpTMreGW]
 
 
